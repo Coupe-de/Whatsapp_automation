@@ -3,11 +3,11 @@
 
 # **Prerequsites:**
 
-*python version 	≥ 3.6*
+* *python version 	≥ 3.6*
 
-*Jupiter notebook*
+* *Jupiter notebook*
 
-*whatsapp web(logged into account)*
+* *whatsapp web(logged into account)*
 
 
 
