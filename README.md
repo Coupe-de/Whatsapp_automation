@@ -4,7 +4,9 @@
 # **Prerequsites:**
 
 *python version 	≥ 3.6*
+
 *Jupiter notebook*
+
 *whatsapp web(logged into account)*
 
 
